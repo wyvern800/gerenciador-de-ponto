@@ -3,7 +3,7 @@ Usado para marcar ponto de entrada e saída de trabalho
 
 Esta release contém o uber jar com todas as dependências incluídas.
 
-####Considerações finais:
+#### Considerações finais:
 
 - Sistema feito em uma madrugada (Pode/conterá bugs)
 - Sistema feito por puro roleplay e diversão
